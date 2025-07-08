@@ -134,6 +134,9 @@ npm run dev
 
 欢迎提交Issue和Pull Request来改进这个项目！
 
+## tips
+本项目由manus自主完成  
+https://manus.im/share/zeCgD3ofzMFbcm4Fsu56cD?replay=1
 ## 许可证
 
 MIT License
