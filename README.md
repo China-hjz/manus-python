@@ -136,7 +136,6 @@ npm run dev
 
 ## tips
 本项目由manus自主完成  
-https://manus.im/share/zeCgD3ofzMFbcm4Fsu56cD?replay=1
 ## 许可证
 
 MIT License
